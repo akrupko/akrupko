@@ -26,7 +26,7 @@
 
 </div>
 
-## Курсы
+## Курсы/Сертификаты
 
 [![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/46ec585a-176b-463e-afe8-8e393778d86f/)<br>
 [![Stepik](https://img.shields.io/badge/Stepik-Основы_статистики-blue)](https://stepik.org/cert/2158832)
