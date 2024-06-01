@@ -28,8 +28,7 @@
 
 ## Курсы
 
-[![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)]([https://lab.karpov.courses/certificate/46ec585a-176b-463e-afe8-8e393778d86f/]<br>
-[![KC](https://img.shields.io/badge/Karpov.courses-Основы_Python-red)](https://lab.karpov.courses/certificate/73693d0c-40cb-42cb-9a33-f505798e2fdd/)<br>
+[![KC](https://img.shields.io/badge/Karpov.courses-Аналитик_данных-red)](https://lab.karpov.courses/certificate/46ec585a-176b-463e-afe8-8e393778d86f/<br>
 [![Stepik](https://img.shields.io/badge/Stepik-Основы_статистики-blue)](https://stepik.org/cert/2158832)
 
 </div>
